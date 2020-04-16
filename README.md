@@ -167,4 +167,10 @@ https://github.com/beefe/react-native-actionsheet/blob/master/lib/options.js
         <td></td>
         <td>{}</td>
     </tr>
+    <tr>
+        <td>useNativeDriver</td>
+        <td>only for ActionSheetCustom</td>
+        <td>PropTypes.bool</td>
+        <td>false</td>
+    </tr>
 </table>
